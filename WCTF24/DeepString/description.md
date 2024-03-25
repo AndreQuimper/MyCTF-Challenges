@@ -1,0 +1,3 @@
+# DeepString (pwn)
+
+I had DeepThought running, but Wolphv reprogrammed it so that it now only performs string functions...
